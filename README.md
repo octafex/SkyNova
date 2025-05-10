@@ -6,10 +6,6 @@
 <p align="center"><i>Designing better public service experiences through UI/UX</i></p>
 
 <p align="center">
-  <img src="https://your-logo-url-here.png" alt="SkyNova Logo" width="100"/>
-</p>
-
-<p align="center">
   <a href="https://www.figma.com/design/1QLDXZe3AEHJKtxLNIpBEl/Untitled?node-id=66-590&t=mJsDUGfXMLMkOsi6-1" target="_blank">
     <img src="https://img.shields.io/badge/Figma-Design-blue?logo=figma" alt="Figma">
   </a>
