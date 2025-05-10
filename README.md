@@ -1,18 +1,30 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JwZW1od2d0cml4ZDV3Nncyb3E4eTBhczhvODc5MzdpNnZuYjJ1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btRkeE7RtAq8DnO/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JwZW1od2d0cml4ZDV3Nncyb3E4eTBhczhvODc5MzdpNnZuYjJ1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btRkeE7RtAq8DnO/giphy.gif" width="300"/>
 </p>
 
 <h1 align="center">SkyNova 🚀</h1>
 <p align="center"><i>Designing better public service experiences through UI/UX</i></p>
 
+<p align="center">
+  <img src="https://your-logo-url-here.png" alt="SkyNova Logo" width="100"/>
+</p>
+
+<p align="center">
+  <a href="https://www.figma.com/design/1QLDXZe3AEHJKtxLNIpBEl/Untitled?node-id=66-590&t=mJsDUGfXMLMkOsi6-1" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-Design-blue?logo=figma" alt="Figma">
+  </a>
+  <img src="https://img.shields.io/badge/Status-In_Progress-yellow" alt="Project Status">
+  <img src="https://img.shields.io/badge/Team-SkyNova-lightgrey" alt="Team Name">
+</p>
+
 ---
 
 ## 👥 Team Members – *LayananKu Project Design*
-| Name                             | Student ID        | Role           |
-|----------------------------------|-------------------|----------------|
-| Muhammad Octafachdiansyah Darussalam | 103062300055 | UI/UX Designer |
-| Ardan Pratama                   | 103062300049      | Front-End Dev  |
-| Muhammad Raihan Fadani         | 103062300110      | UX Researcher  |
+| Name                              | Student ID        |
+|-----------------------------------|-------------------|
+| Muhammad Octafachdiansyah Darussalam | 103062300055 |
+| Ardan Pratama                    | 103062300049      |
+| Muhammad Raihan Fadani          | 103062300110      |
 
 ---
 
