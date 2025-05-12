@@ -6,7 +6,7 @@
 <p align="center"><i>Crafting a better digital experience for public services through user-centered design</i></p>
 
 <p align="center">
-  <a href="https://www.figma.com/your-figma-link" target="_blank">
+  <a href="https://www.figma.com/design/1QLDXZe3AEHJKtxLNIpBEl/Untitled?node-id=0-1&t=QgoH1bTMrHQVfjDo-1" target="_blank">
     <img src="https://img.shields.io/badge/Figma-Design-blue?logo=figma" alt="Figma">
   </a>
   <img src="https://img.shields.io/badge/Status-In_Progress-yellow" alt="Project Status">
